@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.MuiButton-label {
+ padding: 0%;
+ 
+ text-transform: capitalize;
+ }
+
+ .MuiContainer-root{
+   background-color: inherit;
+ }
